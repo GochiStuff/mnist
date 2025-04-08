@@ -1,0 +1,2 @@
+# mnist
+guess the number !! 
